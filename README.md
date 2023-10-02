@@ -1,3 +1,9 @@
+### Hi there 👋
+
+<h1 align="center">Mandar Joshi 😎</h1>
+<h3 align="center">Hello there👋, Welcome to my Git World</h3>
+<p align="center">Software Developer 💻 </p>
+
 # 💫 About Me:
 Dedicated and results-driven Full Stack Developer with extensive experience in the dynamic IT industry. Proficient in a wide range of technologies, including ReactJS, NodeJS, AWS, Azure, SQL, MongoDB. Known for exceptional skills in React and Node development, with a proven ability to deliver high-quality software solutions. Aspiring to excel in a leadership role as a Full Stack Developer, leveraging my quick learning ability and passion for embracing new technologies and challenges to drive innovation and success.
 
